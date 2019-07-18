@@ -23,7 +23,7 @@ Metacello new
 
 ## Example Usage
 
-First, in Settings, add Iceberg plain text credentials for github.com to avoid API rate limiting and to enable Gist creating, editing, forking, starring, etc.
+Note: Add Iceberg plain text credentials for github.com to avoid API rate limiting and to enable Gist creating, editing, forking, starring, etc.
 
 #### Open Gist Browser from Tools
 
@@ -47,7 +47,7 @@ First, in Settings, add Iceberg plain text credentials for github.com to avoid A
 
 * Similar to the Playground "Remote publish" (to share code via [Shared Smalltalk Workspaces](http://ws.stfx.eu)), create a Gist from a Playground via the GitHub button in the Playground toolbar.
 
---
+---
 
 Note: Text needs to be accepted with the "accept" keybind, usually *Meta + s*.
 
