@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "brackendev 7/7/2019 02:33",
-	"super" : "ListPresenter",
+	"super" : "FastTablePresenter",
 	"category" : "GistBrowser-BrowserUI",
 	"classinstvars" : [ ],
 	"pools" : [ ],
