@@ -2,7 +2,6 @@ initialization
 initialize
 	super initialize.
 	self
-		autoAccept: true;
 		ghostText: 'Content filename';
 		help: 'Content filename'.
 	owner announcingObject playground title isEmptyOrNil
