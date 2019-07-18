@@ -47,7 +47,7 @@ Note: Add Iceberg plain text credentials for github.com to avoid API rate limiti
 
 * Similar to the Playground "Remote publish" (to share code via [Shared Smalltalk Workspaces](http://ws.stfx.eu)), create a Gist from a Playground via the GitHub button in the Playground toolbar.
 
----
+### More Example Usage
 
 Note: Text needs to be accepted with the "accept" keybind, usually *Meta + s*.
 
