@@ -27,11 +27,11 @@ Note: Add Iceberg plain text credentials for github.com to avoid API rate limiti
 
 Note: After entering text, it needs to be accepted with the "accept" keybind, usually *Meta + s*.
 
-#### Open Gist Browser from Tools
+#### 🔹 Open Gist Browser from Tools
 
 * Interact with Gists using the Gist Browser accessible via the Tools menu.
 
-#### Open Gist Browser from a Playground
+#### 🔹 Open Gist Browser from a Playground
 
 * In a Playground, evaluate:
 
@@ -45,7 +45,7 @@ Note: After entering text, it needs to be accepted with the "accept" keybind, us
     GistBrowser open: 'brackendev'.
     ```
 
-#### Create a Gist from a Playground
+#### 🔹 Create a Gist from a Playground
 
 * Similar to the Playground "Remote publish" (to share code via [Shared Smalltalk Workspaces](http://ws.stfx.eu)), create a Gist from a Playground via the GitHub button in the Playground toolbar.
 
