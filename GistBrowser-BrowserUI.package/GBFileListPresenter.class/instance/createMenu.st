@@ -11,6 +11,14 @@ createMenu
 						action: [ Clipboard
 								clipboardText: ((self selectedItem at: #raw_url))
 							]
+					];
+				addItem:
+					[ :item | 
+					item
+						name: 'Inspect it';
+						icon: (Smalltalk ui iconNamed: #smallInspectIt);
+						enabled: [ self selectedItem notNil ];
+						action: [ self selectedItem inspect ]
 					]
 			];
 		buildWithSpecAsPopup
