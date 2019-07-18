@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "brackendev 7/17/2019 20:53",
+	"super" : "GBAnnouncement",
+	"category" : "GistBrowser-Announcements",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"gistList"
+	],
+	"name" : "GBAnnouncementGistListUpdated",
+	"type" : "normal"
+}

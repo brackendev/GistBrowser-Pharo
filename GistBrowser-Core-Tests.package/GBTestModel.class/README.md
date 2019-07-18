@@ -1,0 +1,1 @@
+I am GBTestModel, an object to test with GBNetworkTest.

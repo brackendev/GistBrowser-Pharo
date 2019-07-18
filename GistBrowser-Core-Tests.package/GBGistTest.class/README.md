@@ -1,0 +1,1 @@
+I am GBGistModel, an object to test GBGist.

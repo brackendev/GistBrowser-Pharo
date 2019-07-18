@@ -1,0 +1,1 @@
+I am the RubScrolledTextModel subclass object to interact with the GBContentTextMorph.

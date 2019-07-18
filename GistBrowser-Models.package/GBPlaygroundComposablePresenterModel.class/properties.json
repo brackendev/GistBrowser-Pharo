@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "brackendev 7/14/2019 12:21",
+	"super" : "Model",
+	"category" : "GistBrowser-Models",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"playground",
+		"content"
+	],
+	"name" : "GBPlaygroundComposablePresenterModel",
+	"type" : "normal"
+}

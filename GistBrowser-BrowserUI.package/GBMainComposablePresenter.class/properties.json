@@ -1,0 +1,27 @@
+{
+	"commentStamp" : "brackendev 7/14/2019 09:44",
+	"super" : "ComposablePresenterWithModel",
+	"category" : "GistBrowser-BrowserUI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"ButtonWidth"
+	],
+	"instvars" : [
+		"avatarButtonPresenter",
+		"descriptionTextInputFieldPresenter",
+		"filenameTextInputFieldPresenter",
+		"fileListPresenter",
+		"gistListPresenter",
+		"privateCheckBoxPresenter",
+		"saveButtonPresenter",
+		"usernameTextInputFieldPresenter",
+		"mainMenuPresenter",
+		"fileMenuPresenter",
+		"contentTextModel",
+		"contentTextMorph",
+		"contentTextAdapter"
+	],
+	"name" : "GBMainComposablePresenter",
+	"type" : "normal"
+}

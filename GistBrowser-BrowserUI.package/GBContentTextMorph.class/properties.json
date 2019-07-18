@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "brackendev 7/9/2019 07:17",
+	"super" : "RubScrolledTextMorph",
+	"category" : "GistBrowser-BrowserUI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GBContentTextMorph",
+	"type" : "normal"
+}

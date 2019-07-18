@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "brackendev 7/14/2019 10:01",
+	"super" : "GBButtonPresenter",
+	"category" : "GistBrowser-PlaygroundUI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GBPlaygroundSaveButtonPresenter",
+	"type" : "normal"
+}

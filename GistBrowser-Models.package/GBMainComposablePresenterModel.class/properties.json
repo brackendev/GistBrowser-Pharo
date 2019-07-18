@@ -1,0 +1,24 @@
+{
+	"commentStamp" : "brackendev 7/12/2019 09:24",
+	"super" : "Model",
+	"category" : "GistBrowser-Models",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"startUsername",
+		"username",
+		"usernameForm",
+		"gistList",
+		"gistListProcess",
+		"contentProcess",
+		"isStarredProcess",
+		"avatarProcess",
+		"selectedGist",
+		"selectedStarred",
+		"selectedFile",
+		"selectedContent"
+	],
+	"name" : "GBMainComposablePresenterModel",
+	"type" : "normal"
+}

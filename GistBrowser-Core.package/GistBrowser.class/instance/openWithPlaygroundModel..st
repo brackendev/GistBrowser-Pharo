@@ -1,0 +1,3 @@
+private factory
+openWithPlaygroundModel: aPlaygroundComposablePresenterModel
+	GBPlaygroundComposablePresenter openWith: aPlaygroundComposablePresenterModel

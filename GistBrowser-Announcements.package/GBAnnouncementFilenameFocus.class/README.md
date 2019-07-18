@@ -1,0 +1,1 @@
+I am GBAnnouncementFilenameFocus, an announcement for GistBrowser.

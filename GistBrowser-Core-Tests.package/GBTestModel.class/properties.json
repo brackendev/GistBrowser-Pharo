@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "brackendev 7/12/2019 05:27",
+	"super" : "Object",
+	"category" : "GistBrowser-Core-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"slot1",
+		"slot2",
+		"slot3"
+	],
+	"name" : "GBTestModel",
+	"type" : "normal"
+}

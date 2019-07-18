@@ -1,0 +1,1 @@
+I am GBAnnouncementGistListUpdated, an announcement for GistBrowser.

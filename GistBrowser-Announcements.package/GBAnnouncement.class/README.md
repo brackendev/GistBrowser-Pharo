@@ -1,0 +1,1 @@
+I am GBAnnouncement, the Announcement subclass for GistBrowser.

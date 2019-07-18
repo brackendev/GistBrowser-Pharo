@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "brackendev 7/14/2019 09:44",
+	"super" : "ComposablePresenterWithModel",
+	"category" : "GistBrowser-PlaygroundUI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"ButtonWidth"
+	],
+	"instvars" : [
+		"descriptionTextInputFieldPresenter",
+		"filenameTextInputFieldPresenter",
+		"privateCheckBoxPresenter",
+		"saveButtonPresenter",
+		"contentTextModel",
+		"contentTextMorph",
+		"contentTextAdapter"
+	],
+	"name" : "GBPlaygroundComposablePresenter",
+	"type" : "normal"
+}

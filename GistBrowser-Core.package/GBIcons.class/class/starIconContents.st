@@ -1,0 +1,12 @@
+private - contents
+starIconContents
+	"Private - Method generated with the content of the file File @ star.png"
+
+	^ 'iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1B
+AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEUSURBVDhPndIxS4JBHMfxyxoMnBqd
+iqAg3DKaE7OhqXIKrVBpbHEImrMIxNVBIpqCCrKpF9Dgi+jN+P3dqRxP9/jw+IMP/u+e5/H+
+d5xJSAkFVy6Wd/RdmT4b6OIVOU2kzT12cIymJtJkGWpfUf3hynC2sI8yqrjCI/xV1U0bFziF
+3t3DOswXhqjjBHpYhFaeZhXTRc5wiV/0YF98wC2WNJGQFejDGzvyco5naLW4rEFno06CUeuf
+rvyXLH6waUdz8jb5jUbbi3s2iy5Px5U2atm/RC+Yt0VzjQNXmhq0328caYI0UHFlOFphG2q1
+BbWtU7/DALt4QjAZ/EF3P6+JSHThdMAjOwpEf3DoytioI28LxowBSJgigKDoe1MAAAAASUVO
+RK5CYII='

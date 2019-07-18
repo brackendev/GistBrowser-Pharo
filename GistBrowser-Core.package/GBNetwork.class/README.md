@@ -1,0 +1,1 @@
+I am GistBrowser, an object to interact with the GitHub API.

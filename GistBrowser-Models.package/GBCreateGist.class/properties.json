@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "brackendev 7/12/2019 08:33",
+	"super" : "Object",
+	"category" : "GistBrowser-Models",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"description",
+		"public",
+		"filename",
+		"content"
+	],
+	"name" : "GBCreateGist",
+	"type" : "normal"
+}

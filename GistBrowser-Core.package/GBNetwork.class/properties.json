@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "brackendev 7/7/2019 03:54",
+	"super" : "Object",
+	"category" : "GistBrowser-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Timeout"
+	],
+	"instvars" : [ ],
+	"name" : "GBNetwork",
+	"type" : "normal"
+}

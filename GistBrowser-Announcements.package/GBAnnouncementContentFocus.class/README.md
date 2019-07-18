@@ -1,0 +1,1 @@
+I am GBAnnouncementContentFocus, an announcement for GistBrowser.

@@ -1,0 +1,1 @@
+I am the check box presenter object to show private/public status of a gist.

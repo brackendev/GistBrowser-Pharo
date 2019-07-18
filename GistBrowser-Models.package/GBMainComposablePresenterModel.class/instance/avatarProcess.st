@@ -1,0 +1,3 @@
+accessing
+avatarProcess
+	^ avatarProcess

@@ -1,0 +1,1 @@
+I am GBAddFile, an object (between the view and API) to add a file to a gist.

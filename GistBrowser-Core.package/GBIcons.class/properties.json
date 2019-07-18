@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "brackendev 7/7/2019 06:32",
+	"super" : "Object",
+	"category" : "GistBrowser-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"icons"
+	],
+	"instvars" : [ ],
+	"name" : "GBIcons",
+	"type" : "normal"
+}

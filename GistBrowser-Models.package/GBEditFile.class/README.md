@@ -1,0 +1,1 @@
+I am GBEditGist, an object (between the view and API) to edit a gist.

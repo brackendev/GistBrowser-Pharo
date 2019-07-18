@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "brackendev 7/12/2019 08:33",
+	"super" : "Object",
+	"category" : "GistBrowser-Models",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"gistID",
+		"filename",
+		"content"
+	],
+	"name" : "GBAddFile",
+	"type" : "normal"
+}

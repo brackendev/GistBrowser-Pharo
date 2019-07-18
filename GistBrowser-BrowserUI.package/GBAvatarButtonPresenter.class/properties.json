@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "brackendev 7/8/2019 14:38",
+	"super" : "GBButtonPresenter",
+	"category" : "GistBrowser-BrowserUI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GBAvatarButtonPresenter",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "brackendev 7/12/2019 09:01",
+	"super" : "TestCase",
+	"category" : "GistBrowser-Models-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"test1"
+	],
+	"name" : "GBDeleteFileTest",
+	"type" : "normal"
+}

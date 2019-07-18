@@ -1,0 +1,1 @@
+I am GBDeleteFile, an object (between the view and API) to delete a file from a gist.

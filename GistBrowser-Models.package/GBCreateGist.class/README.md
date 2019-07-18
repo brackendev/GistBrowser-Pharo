@@ -1,0 +1,1 @@
+I am GBCreateGist, an object (between the view and API) to create a gist.

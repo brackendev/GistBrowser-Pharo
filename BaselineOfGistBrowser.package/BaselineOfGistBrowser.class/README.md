@@ -1,0 +1,1 @@
+BaselineOfGistBrowser is the BaselineOf subclass for GistBrowser.
