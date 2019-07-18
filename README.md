@@ -10,6 +10,10 @@ GistBrowser-Pharo
 
 * [Pharo 7.0](http://pharo.org/) reference platform.
 
+## Screenshot
+
+<img src="https://github.com/brackendev/GistBrowser-Pharo/raw/master/screenshot.png" alt="Screenshot" width="700"/>
+
 ## Installation
 
 In a Playground, evaluate:
@@ -93,10 +97,6 @@ Playground:
 1. Select the Gist (top-left column)
 2. Select the file (top-right column).
 3. Click the *Delete File* [❌] button (right-side top toolbar).
-    
-## Screenshot
-
-<img src="https://github.com/brackendev/GistBrowser-Pharo/raw/master/screenshot.png" alt="Screenshot" width="700"/>
 
 ## Author
 
