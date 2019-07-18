@@ -96,7 +96,7 @@ Playground:
     
 ## Screenshot
 
-<img src="https://github.com/brackendev/GistBrowser-Pharo/raw/master/screenshot.png" alt="Screenshot" width="400"/>
+<img src="https://github.com/brackendev/GistBrowser-Pharo/raw/master/screenshot.png" alt="Screenshot" width="700"/>
 
 ## Author
 
