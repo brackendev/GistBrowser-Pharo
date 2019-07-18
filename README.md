@@ -1,5 +1,5 @@
 
-This is very much a work in progress. Due to limitations of the Gist API, the UX is currently not as smooth as I prefer. (Multiple API requests have to be made to get the entire content of a Gist. Even getting the starred status of a Gist requires a unique API request.)
+This is very much a work in progress. Due to the nature of the Gist API, the UX is (currently) not as smooth as I prefer. (Multiple API requests have to be made to get the entire content of a Gist. Even getting the starred status of a Gist requires a unique API request.)
 
 - - -
 
