@@ -100,6 +100,13 @@ Playground:
 2. Select the file (top-right column).
 3. Click the *Delete File* [❌] button (right-side top toolbar).
 
+## Acknowledgements
+
+This project makes use of the following third-party libraries:
+
+* [NeoJSON](https://github.com/svenvc/NeoJSON)
+* [Zinc HTTP Components](https://github.com/svenvc/zinc)
+
 ## Author
 
 [brackendev](https://www.github.com/brackendev)
