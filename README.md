@@ -27,6 +27,11 @@ Metacello new
   load.
 ```
 
+## TODO
+
+- [ ] Pharo 8 compatibility
+- [ ] Move to Spec2
+
 ## Example Usage
 
 Note: Add Iceberg plain text credentials for github.com to avoid API rate limiting and to enable Gist creating, editing, forking, starring, etc.
