@@ -21,9 +21,13 @@ Browse, create, edit, and fork Gists via the Gist Browser, create Gists from Pla
 In a Playground, evaluate:
 
 ```smalltalk
-Metacello new 
-  repository: 'github://brackendev/GistBrowser-Pharo';
-  baseline: 'GistBrowser';
+Metacello new
+  repository: 'github://brackendev/GistBrowser-Pharo';
+  baseline: 'GistBrowser';
+  onConflict: [ :ex | ex useIncoming ];
+  onUpgrade: [ :ex | ex useIncoming ];
+  onDowngrade: [ :ex | ex useLoaded ];
+  ignoreImage;
   load.
 ```
 
