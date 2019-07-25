@@ -111,8 +111,9 @@ Playground:
 
 ## Acknowledgements
 
-This project makes use of the following third-party libraries:
+This project makes use of the following third-party libraries and utilities:
 
+* [IconFactory](https://github.com/peteruhnak/IconFactory)
 * [NeoJSON](https://github.com/svenvc/NeoJSON)
 * [Zinc HTTP Components](https://github.com/svenvc/zinc)
 
