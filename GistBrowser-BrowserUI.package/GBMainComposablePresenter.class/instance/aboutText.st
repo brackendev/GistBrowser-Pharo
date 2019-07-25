@@ -2,4 +2,4 @@ api
 aboutText
 	^ 'Gist Browser
 	
-Interaction with GitHub Gists.'
+Interact with GitHub Gists.'
