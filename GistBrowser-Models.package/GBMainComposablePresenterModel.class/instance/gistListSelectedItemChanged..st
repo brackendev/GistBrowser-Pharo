@@ -1,7 +1,7 @@
 event handling
 gistListSelectedItemChanged: aGist
-	gistListProcess ifNotNil: [ gistListProcess terminate ].
-	isStarredProcess ifNotNil: [ isStarredProcess terminate ].
+	gistListProcess ifNotNil: [ gistListProcess terminate. gistListProcess := nil ].
+	isStarredProcess ifNotNil: [ isStarredProcess terminate. isStarredProcess := nil ].
 	aGist
 		ifNil: [ selectedGist value: nil
 			]
