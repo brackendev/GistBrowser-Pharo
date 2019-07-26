@@ -5,7 +5,9 @@ initialize
 	username := String new asValueHolder.
 	username
 		whenChangedDo:
-			[ :newValue :oldValue | self resetGistList. self retrieveGistListFor: newValue oldUsername: oldValue ].
+			[ :newValue :oldValue |
+			NetNameResolver isConnected ifTrue: [
+			 self resetGistList. self retrieveGistListFor: newValue oldUsername: oldValue ]].
 	usernameForm := String new asValueHolder.
 	gistList := OrderedCollection new asValueHolder.
 	selectedGist := String new asValueHolder.
