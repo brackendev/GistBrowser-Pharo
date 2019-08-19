@@ -8,7 +8,7 @@ GistBrowser-Pharo
 
 **Interact with [GitHub Gist](https://gist.github.com) on Pharo.**
 
-Browse, create, edit, and fork Gists via the Gist Browser, create Gists from Playgrounds, etc.
+Browse, create, edit, and fork Gists via the Gist Browser, create Gists from Playgrounds, and more.
 
 * [Pharo 7.0](http://pharo.org/) reference platform.
 
