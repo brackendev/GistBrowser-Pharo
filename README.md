@@ -14,7 +14,7 @@ Browse, create, edit, and fork Gists via the Gist Browser, create Gists from Pla
 
 ## Screenshot
 
-<img src="https://github.com/brackendev/GistBrowser-Pharo/raw/master/screenshot1.png" alt="Screenshot" width="700"/>
+<img src="https://github.com/brackendev/GistBrowser-Pharo/raw/master/screenshot2.png" alt="Screenshot" width="700"/>
 
 ## Installation
 
