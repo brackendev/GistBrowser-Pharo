@@ -64,7 +64,7 @@ Note: After entering text, it needs to be accepted with the "accept" keybind, us
 
 * Similar to the Playground "Remote publish" (to share code via [Shared Smalltalk Workspaces](http://ws.stfx.eu)), create a Gist from a Playground via the GitHub button in the Playground toolbar.
 
-<img src="https://github.com/brackendev/GistBrowser-Pharo/raw/master/screenshot2.png" alt="Screenshot" width="700"/>
+    <img src="https://github.com/brackendev/GistBrowser-Pharo/raw/master/screenshot2.png" alt="Screenshot" width="700"/>
 
 ### More Example Usage
 
