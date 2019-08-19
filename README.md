@@ -38,9 +38,9 @@ Metacello new
 
 ## Example Usage
 
-Note: Add Iceberg plain text credentials for github.com to avoid API rate limiting and to enable Gist creating, editing, forking, starring, etc.
+Note: In Pharo Settings, add Iceberg plain text credentials for github.com to avoid API rate limiting and to enable Gist creating, editing, forking, starring, etc.
 
-Note: After entering text, it needs to be accepted with the "accept" keybind, usually *Meta + s*.
+Note: In Gist Browser, after entering text, it needs to be accepted with the "accept" keybind, usually *Meta + s*.
 
 #### 🔹 Open Gist Browser from Tools
 
