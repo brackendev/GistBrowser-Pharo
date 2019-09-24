@@ -33,7 +33,6 @@ Metacello new
 
 ## TODO
 
-- [ ] Pharo 8 compatibility
 - [ ] Move to Spec2
 
 ## Example Usage
