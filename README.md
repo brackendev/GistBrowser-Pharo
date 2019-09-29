@@ -31,10 +31,6 @@ Metacello new
   load.
 ```
 
-## TODO
-
-- [ ] Move to Spec2
-
 ## Example Usage
 
 Note: In Pharo Settings, add Iceberg plain text credentials for github.com to avoid API rate limiting and to enable Gist creating, editing, forking, starring, etc.
@@ -109,6 +105,10 @@ Playground:
 1. Select the Gist (top-left column)
 2. Select the file (top-right column).
 3. Click the *Delete File* [❌] button (right-side top toolbar).
+
+## TODO
+
+- [ ] Move to Spec2
 
 ## Acknowledgements
 
