@@ -10,7 +10,7 @@ GistBrowser-Pharo
 
 Browse, create, edit, and fork Gists via the Gist Browser, create Gists from Playgrounds, [Gist Press](https://www.gist-press.com/) support, and more.
 
-* [Pharo 7.0](http://pharo.org/) reference platform.
+* [Pharo 8.0](http://pharo.org/) reference platform.
 
 ## Screenshot
 
@@ -37,11 +37,11 @@ Note: In Pharo Settings, add Iceberg plain text credentials for github.com to av
 
 Note: In Gist Browser, after entering text, it needs to be accepted with the "accept" keybind, usually *Meta + s*.
 
-#### ![](https://files.pharo.org/media/logo/icon-lighthouse-16x16.ico) Open Gist Browser from Tools
+#### OPEN GIST BROWSER FROM TOOLS
 
 * Interact with Gists using the Gist Browser accessible via the Tools menu.
 
-#### ![](https://files.pharo.org/media/logo/icon-lighthouse-16x16.ico) Open Gist Browser from a Playground
+#### OPEN GIST BROWSER FROM FROM A PLAYGROUND
 
 * In a Playground, evaluate:
 
@@ -55,7 +55,7 @@ Note: In Gist Browser, after entering text, it needs to be accepted with the "ac
     GistBrowser open: 'brackendev'.
     ```
 
-#### ![](https://files.pharo.org/media/logo/icon-lighthouse-16x16.ico) Create a Gist from a Playground
+#### CREATE A GIST FROM A PLAYGROUND
 
 * Similar to the Playground "Remote publish" (to share code via [Shared Smalltalk Workspaces](http://ws.stfx.eu)), create a Gist from a Playground via the GitHub button in the Playground toolbar.
 
