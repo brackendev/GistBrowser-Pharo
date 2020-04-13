@@ -37,11 +37,11 @@ Note: In Pharo Settings, add Iceberg plain text credentials for github.com to av
 
 Note: In Gist Browser, after entering text, it needs to be accepted with the "accept" keybind, usually *Meta + s*.
 
-#### OPEN GIST BROWSER FROM TOOLS
+#### ◼︎ Open Gist Browser from Tools
 
 * Interact with Gists using the Gist Browser accessible via the Tools menu.
 
-#### OPEN GIST BROWSER FROM FROM A PLAYGROUND
+#### ◼︎ Open Gist Browser from a Playground
 
 * In a Playground, evaluate:
 
@@ -55,7 +55,7 @@ Note: In Gist Browser, after entering text, it needs to be accepted with the "ac
     GistBrowser open: 'brackendev'.
     ```
 
-#### CREATE A GIST FROM A PLAYGROUND
+#### ◼︎ Create a Gist from a Playground
 
 * Similar to the Playground "Remote publish" (to share code via [Shared Smalltalk Workspaces](http://ws.stfx.eu)), create a Gist from a Playground via the GitHub button in the Playground toolbar.
 
@@ -63,7 +63,7 @@ Note: In Gist Browser, after entering text, it needs to be accepted with the "ac
 
 ### More Example Usage
 
-#### Create a Gist
+#### ◼︎ Create a Gist
 
 Gist Browser:
 
@@ -80,12 +80,12 @@ Playground:
 2. In the *Gist description* text field, add the description.
 3. Click the *Save* button.
 
-#### Delete a Gist
+#### ◼︎ Delete a Gist
 
 1. Select the Gist (top-left column).
 2. Click the *Delete Gist* [❌] button (left-side top toolbar).
 
-#### Add a File to a Gist
+#### ◼︎ Add a File to a Gist
 
 1. Select the Gist.
 2. Click the _Add a new file_ [➕] button (right-side top toolbar).
@@ -93,14 +93,14 @@ Playground:
 4. In the *Content filename* text field, add the filename.
 5. Click the *Save* button.
 
-#### Edit a Gist File
+#### ◼︎ Edit a Gist File
 
 1. Select the Gist (top-left column)
 2. Select the file (top-right column).
 3. Edit the content (in the *File content* text area) and/or the filename (in the *Content filename* text field).
 4. Click the *Save* button.
 
-#### Delete a Gist File
+#### ◼︎ Delete a Gist File
 
 1. Select the Gist (top-left column)
 2. Select the file (top-right column).
