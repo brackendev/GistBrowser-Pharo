@@ -18,7 +18,9 @@ Browse, create, edit, and fork Gists via the Gist Browser, create Gists from Pla
 
 ## Installation
 
-In a Playground, evaluate:
+1. Setup a personal access token for Pharo at https://github.com/settings/tokens/new. Use this token for the Iceberg github.com plain text credentials password. 
+
+2. In a Playground, evaluate:
 
 ```smalltalk
 Metacello new
@@ -108,7 +110,6 @@ Playground:
 
 ## TODO
 
-- [ ] Migrate from [deprecated password authentication](https://developer.github.com/changes/2020-02-14-deprecating-password-auth/)
 - [ ] Move to Spec2
 
 ## Acknowledgements
