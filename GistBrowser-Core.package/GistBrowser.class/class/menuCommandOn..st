@@ -5,5 +5,5 @@ menuCommandOn: aBuilder
 		help: 'Interact with GitHub Gists.';
 		parent: #Tools;
 		icon: (Smalltalk ui iconNamed: #github);
-		action: [ GistBrowser open ];
+		action: [ self open ];
 		keyText: 'o, g'

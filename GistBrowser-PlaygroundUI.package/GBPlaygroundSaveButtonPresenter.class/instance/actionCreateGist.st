@@ -12,7 +12,9 @@ actionCreateGist
 	(GBTools
 		proceed: 'Are you sure you want to save this Gist?'
 		title: 'Save Gist')
-		ifTrue: [ owner announcingObject
+		ifTrue:
+			[
+			owner announcingObject
 				saveGBCreateGist:
 					(GBCreateGist
 						createWith: owner descriptionTextInputFieldPresenter text

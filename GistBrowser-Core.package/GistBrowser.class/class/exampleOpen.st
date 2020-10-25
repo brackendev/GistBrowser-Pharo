@@ -1,4 +1,4 @@
 examples
 exampleOpen
 	<sampleInstance>
-	GistBrowser open.
+	self open

@@ -6,6 +6,7 @@ retrieveUserGists: aUsernameString completion: aCompletionBlock
 	gbn := self new.
 	perPage := 100.
 	allResults := OrderedCollection new.
+	requestBlock := nil.
 
 	requestBlock := [ :aPage | 
 	| response array |
@@ -15,16 +16,18 @@ retrieveUserGists: aUsernameString completion: aCompletionBlock
 				, aPage asString , '&per_page=' , perPage asString.
 
 	array := response isSuccess
-		ifTrue:
-			[ gbn jsonDeserializeStreamFrom: response entity string readStream ]
+		ifTrue: [ gbn jsonDeserializeStreamFrom: response entity string readStream ]
 		ifFalse: [ Array new ].
 
 	response isSuccess not | array isEmpty
-		ifTrue: [ aCompletionBlock
+		ifTrue:
+			[
+			aCompletionBlock
 				value: allResults
 				value: (gbn findErrorMessageIn: response)
 			]
-		ifFalse: [ allResults := allResults , array asOrderedCollection.
+		ifFalse:
+			[ allResults := allResults , array asOrderedCollection.
 			requestBlock value: aPage + 1
 			]
 	].

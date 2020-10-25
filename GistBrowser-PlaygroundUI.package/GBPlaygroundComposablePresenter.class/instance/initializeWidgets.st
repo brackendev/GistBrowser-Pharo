@@ -27,4 +27,5 @@ initializeWidgets
 		add: contentTextMorph;
 		add: descriptionTextInputFieldPresenter;
 		add: filenameTextInputFieldPresenter.
+		
 	self whenBuiltDo: [ :aBlock | self windowWhenBuilt ]

@@ -1,13 +1,16 @@
 initialization
 initialize
 	super initialize.
+	
 	self
-		addGroup: [ :group | 
+		addGroup:
+			[ :group | 
 			group
 				addItem: [ :item | self menuItemRefreshWith: item ];
 				addItem: [ :item | self menuItemAddWith: item ]
 			];
-		addGroup: [ :group | 
+		addGroup:
+			[ :group | 
 			group
 				addItem: [ :item | self menuItemStarWith: item ];
 				addItem: [ :item | self menuItemForkWith: item ];
@@ -16,7 +19,8 @@ initialize
 			].
 
 	owner announcingObject selectedStarred
-		whenChangedDo: [ :newValue | 
+		whenChangedDo:
+			[ :newValue | 
 			newValue
 				ifNil: [ self updateStarItemIconWith: false ]
 				ifNotNil: [ self updateStarItemIconWith: true ]

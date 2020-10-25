@@ -21,7 +21,8 @@ actionEditFile
 	(GBTools
 		proceed: 'Are you sure you want to edit this file?'
 		title: 'Save Gist')
-		ifTrue: [ owner announcingObject
+		ifTrue:
+			[ owner announcingObject
 				saveGBEditFile:
 					(GBEditFile
 						createFor: (gist at: #id)

@@ -1,6 +1,7 @@
 initialization
 initialize
 	super initialize.
+	
 	self
 		ghostText: 'GitHub username';
 		autoAccept: false;

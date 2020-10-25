@@ -1,4 +1,4 @@
 examples
 exampleOpenUsername
 	<sampleInstance>
-	GistBrowser open: 'brackendev'
+	self open: 'brackendev'
