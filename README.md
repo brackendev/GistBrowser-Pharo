@@ -108,6 +108,7 @@ Playground:
 
 ## TODO
 
+- [ ] Migrate from [deprecated password authentication](https://developer.github.com/changes/2020-02-14-deprecating-password-auth/)
 - [ ] Move to Spec2
 
 ## Acknowledgements
