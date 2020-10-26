@@ -15,7 +15,7 @@ Browse, create, edit, and fork Gists via the Gist Browser, create Gists from Pla
 
 1. Setup a personal access token for Pharo at https://github.com/settings/tokens/new. Use this token for the Iceberg github.com plain text credentials password. 
 
-2. In a Playground, evaluate:
+2. In a Playground, _Do it_:
 
 ```smalltalk
 Metacello new
@@ -38,17 +38,19 @@ Note: In Gist Browser, after entering text, it needs to be accepted with the "ac
 
 #### ◼︎ Open Gist Browser from a Playground
 
-* In a Playground, evaluate:
+In a Playground, _Do it_:
 
-    ```smalltalk
-    "Open with the Iceberg plain text github.com username"
-    GistBrowser open.
-    ```
+```smalltalk
+"Open with the Iceberg plain text github.com username"
+GistBrowser open.
+```
     
-    ```smalltalk
-    "Open with a custom GitHub username"
-    GistBrowser open: 'brackendev'.
-    ```
+...or, _Do it_:
+    
+```smalltalk
+"Open with a custom GitHub username"
+GistBrowser open: 'brackendev'.
+```
 
 #### ◼︎ Create a Gist from a Playground
 
@@ -103,7 +105,7 @@ Playground:
 
 ## Note
 
-* Due to constraints of the public Gist API, the UX is (currently) not as smooth as I prefer. (Multiple API requests have to be made to get the entire content of a Gist. Even getting the starred status of a Gist requires a unique API request.)
+* Due to limitations of the public Gist API, the UX is not as smooth as I prefer. Multiple API requests have to be made to get the entire content of a Gist. Even getting the starred status of a Gist requires a unique API request.
 
 ## TODO
 
@@ -124,3 +126,12 @@ This project makes use of the following third-party libraries and utilities:
 ## License
 
 GistBrowser-Pharo is released under the MIT license. See the LICENSE file for more info.
+
+- - -
+
+## Useful Links
+
+* [/r/smalltalk](https://www.reddit.com/r/smalltalk/) [Reddit]
+* [@pharoproject](https://twitter.com/pharoproject) [Twitter]
+* [forum.world.st](http://forum.world.st/)
+* [pharo.org](http://www.pharo.org/)
