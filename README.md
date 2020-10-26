@@ -1,8 +1,3 @@
-
-Due to constraints of the public Gist API, the UX is (currently) not as smooth as I prefer. (Multiple API requests have to be made to get the entire content of a Gist. Even getting the starred status of a Gist requires a unique API request.)
-
-- - -
-
 GistBrowser-Pharo
 =================
 
@@ -105,6 +100,10 @@ Playground:
 1. Select the Gist (top-left column)
 2. Select the file (top-right column).
 3. Click the *Delete File* [❌] button (right-side top toolbar).
+
+## Note
+
+* Due to constraints of the public Gist API, the UX is (currently) not as smooth as I prefer. (Multiple API requests have to be made to get the entire content of a Gist. Even getting the starred status of a Gist requires a unique API request.)
 
 ## TODO
 
