@@ -2,13 +2,12 @@ event handling
 actionStarItem
 	| alertMessage alertTitle completionBlock |
 	self selectedGist ifNil: [ ^ self ].
-
-	selectedStarred value
+	alertTitle := selectedStarred value
 		ifNil: [ alertMessage := 'Are you sure you want to star this Gist?'.
-			alertTitle := 'Star Gist'
+			'Star Gist'
 			]
 		ifNotNil: [ alertMessage := 'Are you sure you want to unstar this Gist?'.
-			alertTitle := 'Unstar Gist'
+			'Unstar Gist'
 			].
 
 	(GBTools proceed: alertMessage title: alertTitle)

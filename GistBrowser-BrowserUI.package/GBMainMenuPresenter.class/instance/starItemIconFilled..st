@@ -1,5 +1,5 @@
 helpers
 starItemIconFilled: aBoolean
-	aBoolean
-				ifTrue: [ ^ GBIcons starFilledIcon ]
-				ifFalse: [ ^ GBIcons starIcon ]
+	^ aBoolean
+		ifTrue: [ GBIcons starFilledIcon ]
+		ifFalse: [ GBIcons starIcon ]

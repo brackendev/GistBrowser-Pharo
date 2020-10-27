@@ -1,31 +1,29 @@
 helpers
 createMenu
 	^ MenuPresenter new
-		addGroup:
-			[ :group | 
+		addGroup: [ :group | 
 			group
-				addItem:
-					[ :item | 
+				addItem: [ :item | 
 					item
 						name: 'Copy URL';
 						icon: (Smalltalk ui iconNamed: #smallCopy);
-						enabled: [ self selectedItem notNil ];
+						enabled: [ self selectedItem isNotNil ];
 						action: [ Clipboard clipboardText: (self selectedItem at: #html_url) ]
 					];
-				addItem:
-					[ :item | 
+				addItem: [ :item | 
 					item
 						name: 'Copy Gist Press URL';
 						icon: (Smalltalk ui iconNamed: #smallCopy);
-						enabled: [ self selectedItem notNil ];
-						action: [ Clipboard clipboardText: ('https://gist-press.com/', (self selectedItem at: #id)) ]
+						enabled: [ self selectedItem isNotNil ];
+						action: [ Clipboard
+								clipboardText: 'https://gist-press.com/' , (self selectedItem at: #id)
+							]
 					];
-				addItem:
-					[ :item | 
+				addItem: [ :item | 
 					item
 						name: 'Inspect it';
 						icon: (Smalltalk ui iconNamed: #smallInspectIt);
-						enabled: [ self selectedItem notNil ];
+						enabled: [ self selectedItem isNotNil ];
 						action: [ self selectedItem inspect ]
 					]
 			];
