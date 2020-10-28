@@ -109,6 +109,7 @@ Playground:
 
 ## TODO
 
+- [ ] Support Pharo 9 (when stable)
 - [ ] Move to Spec2
 
 ## Acknowledgements
