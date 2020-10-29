@@ -19,7 +19,7 @@ Browse, create, edit, and fork Gists via the Gist Browser, create Gists from Pla
 
 ```smalltalk
 Metacello new
-  repository: 'github://brackendev/GistBrowser-Pharo/src';
+  repository: 'github://brackendev/GistBrowser-Pharo:v1.0.0/src';
   baseline: 'GistBrowser';
   onConflict: [ :ex | ex useIncoming ];
   onUpgrade: [ :ex | ex useIncoming ];
