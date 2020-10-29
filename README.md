@@ -9,7 +9,7 @@ Browse, create, edit, and fork Gists via the Gist Browser, create Gists from Pla
 
 ## Screenshot
 
-<img src="https://github.com/brackendev/GistBrowser-Pharo/raw/master/screenshot1.png" alt="Screenshot" width="702"/>
+<img src="https://github.com/brackendev/GistBrowser-Pharo/raw/master/images/screenshot1.png" alt="Screenshot" width="702"/>
 
 ## Installation
 
@@ -56,7 +56,7 @@ GistBrowser open: 'brackendev'.
 
 * Similar to the Playground "Remote publish" (to share code via [Shared Smalltalk Workspaces](http://ws.stfx.eu)), create a Gist from a Playground via the GitHub button in the Playground toolbar.
 
-    <img src="https://github.com/brackendev/GistBrowser-Pharo/raw/master/screenshot2.png" alt="Screenshot" width="685"/>
+    <img src="https://github.com/brackendev/GistBrowser-Pharo/raw/master/images/screenshot2.png" alt="Screenshot" width="685"/>
 
 ### More Example Usage
 
