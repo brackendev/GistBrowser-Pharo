@@ -45,7 +45,7 @@ In a Playground, _Do it_:
 GistBrowser open.
 ```
     
-...or, _Do it_:
+...or _Do it_:
     
 ```smalltalk
 "Open with a custom GitHub username"
