@@ -108,8 +108,7 @@ Playground:
 
 ## TODO
 
-- [ ] Support Pharo 9 (when stable)
-- [ ] Move to [Spec2](https://astares.blogspot.com/2019/08/spec2.html)
+- [ ] Support Pharo 9 and [Spec2](https://astares.blogspot.com/2019/08/spec2.html)
 
 ## Acknowledgements
 
