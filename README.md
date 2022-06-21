@@ -5,7 +5,7 @@ GistBrowser-Pharo
 
 Browse, create, edit, and fork Gists via the Gist Browser, create Gists from Playgrounds, [Gist Press](https://www.gist-press.com/) support, and more.
 
-* [Pharo 8.0](http://pharo.org/) reference platform.
+* [Pharo 8](http://pharo.org/) reference platform.
 
 ## Screenshot
 
@@ -105,7 +105,8 @@ Playground:
 
 ## TODO
 
-- [ ] Support Pharo 9 and [Spec2](https://astares.blogspot.com/2019/08/spec2.html)
+- [ ] Support Pharo 10
+- [ ] Support [Spec2](https://astares.blogspot.com/2019/08/spec2.html)
 
 ## Acknowledgements
 
