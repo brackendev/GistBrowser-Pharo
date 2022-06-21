@@ -11,6 +11,11 @@ Browse, create, edit, and fork Gists via the Gist Browser, create Gists from Pla
 
 <img src="https://github.com/brackendev/GistBrowser-Pharo/raw/master/images/screenshot1.png" alt="Screenshot" width="702"/>
 
+## TODO
+
+- [ ] Support latest Pharo release
+- [ ] Support [Spec2](https://astares.blogspot.com/2019/08/spec2.html)
+
 ## Installation
 
 1. Setup a personal access token for Pharo at https://github.com/settings/tokens/new. Use this token for the Iceberg github.com plain text credentials password. 
@@ -102,11 +107,6 @@ Playground:
 ## Note
 
 * Due to limitations of the public Gist API, the UX is not as smooth as I prefer. Multiple API requests have to be made to get the entire content of a Gist. Even getting the starred status of a Gist requires a unique API request.
-
-## TODO
-
-- [ ] Support Pharo 10
-- [ ] Support [Spec2](https://astares.blogspot.com/2019/08/spec2.html)
 
 ## Acknowledgements
 
