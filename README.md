@@ -13,8 +13,8 @@ Browse, create, edit, and fork Gists via the Gist Browser, create Gists from Pla
 
 ## TODO
 
-- [ ] Support latest Pharo release
-- [ ] Support [Spec2](https://astares.blogspot.com/2019/08/spec2.html)
+- [ ] Support the latest Pharo release.
+- [ ] Support [Spec2](https://astares.blogspot.com/2019/08/spec2.html).
 
 ## Installation
 
